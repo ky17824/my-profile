@@ -1,4 +1,3 @@
-[CV.html](https://github.com/user-attachments/files/29987422/CV.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
